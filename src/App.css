@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.task {
+  padding-top: 50px;
+}
+.done {
+  text-decoration: line-through;
+}
